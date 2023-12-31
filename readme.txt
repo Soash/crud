@@ -2,6 +2,7 @@ git config --global user.name soash
 git config --global user.email soash2002@gmail.com
 
 git init
+git commit -m "commit"
 
 ps
 cd
